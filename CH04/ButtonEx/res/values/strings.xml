@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ButtonEx</string>
+    <string name="btnSubmit">確定</string>
+    <string name="imagebutton_pressed">圖形按鈕被按下</string>
+</resources>

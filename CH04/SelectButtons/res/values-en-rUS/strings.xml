@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>    
+    <string name="app_name">SelectButtons</string>
+	<string name="place">Yangmingshan National Park</string>
+	<string name="female">Female</string>
+	<string name="male">Male</string>
+	<string name="vibrateOn">Vibrate On</string>
+	<string name="vibrateOff">Vibrate Off</string>
+	<string name="checked">checked</string>
+	<string name="unchecked">unchecked</string>	
+</resources>

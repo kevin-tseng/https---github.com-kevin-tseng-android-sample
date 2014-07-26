@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>    
+    <string name="app_name">SelectButtons</string>
+	<string name="place">玉山國家公園</string>
+	<string name="female">女生</string>
+	<string name="male">男生</string>
+	<string name="vibrateOn">震動</string>
+	<string name="vibrateOff">不震動</string>
+	<string name="checked">選取</string>
+	<string name="unchecked">取消選取</string>
+</resources>

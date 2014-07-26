@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:stretchColumns="0,1" >
+
+    <TableRow>
+        <EditText android:layout_column="0"
+            android:padding="3dp"
+            android:hint="@string/editText" />
+        <Button
+            android:padding="3dp" 
+            android:textSize="16sp"
+            android:text="@string/submit" />
+        <Button
+            android:padding="3dp" 
+            android:textSize="16sp"
+            android:text="@string/cancel" />            
+    </TableRow>
+
+    <TableRow>
+        <EditText
+            android:padding="3dp"
+            android:hint="@string/editText" />
+        <Button
+            android:padding="3dp" 
+            android:textSize="16sp"
+            android:text="@string/submit" />
+        <Button
+            android:padding="3dp" 
+            android:textSize="16sp"
+            android:text="@string/cancel" />            
+    </TableRow>
+    
+    <TableRow>
+        <EditText
+            android:layout_span="2"
+            android:padding="3dp"
+            android:hint="@string/editText" />
+        <Button
+            android:padding="3dp" 
+            android:textSize="16sp"
+            android:text="@string/submit" />
+    </TableRow>
+</TableLayout>

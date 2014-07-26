@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="btnSubmit">確定</string>
+    <string name="app_name">InputEx</string>
+	<string name="name">姓名</string>
+	<string name="mobile">手機號碼</string>
+	<string name="id">身分證字號</string>
+	<string name="yourInfo">您的個人資料如下：\n</string>
+</resources>
+

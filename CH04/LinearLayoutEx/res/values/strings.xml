@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>    
+    <string name="app_name">LinearLayoutEx</string>
+    <string name="red">紅色</string>
+    <string name="green">綠色</string>
+    <string name="blue">藍色</string>
+    <string name="yellow">黃色</string>
+    <string name="row1">第1列</string>
+    <string name="row2">第2列</string>
+    <string name="row3">第3列</string>
+    <string name="row4">第4列</string>
+</resources>
