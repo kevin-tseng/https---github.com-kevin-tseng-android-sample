@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ContactEx</string>
+    <string name="phoneNo_not_found">未輸入電話號碼</string>
+</resources>

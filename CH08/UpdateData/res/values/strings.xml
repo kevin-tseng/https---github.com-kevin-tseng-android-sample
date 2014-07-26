@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UpdateData</string>
+	<string name="prompt">旅遊地資訊--</string>
+	<string name="row">(第幾筆/總筆數)</string>
+	<string name="id">旅遊地代號</string>
+	<string name="name">地名</string>
+	<string name="phoneNo">聯絡電話</string>
+	<string name="address">地址</string>
+	<string name="next">下一筆</string>
+	<string name="back">上一筆</string>
+	<string name="update">修改</string>
+	<string name="updated">筆資料修改完畢</string>
+	<string name="delete">刪除</string>
+	<string name="deleted">筆資料刪除完畢</string>
+	<string name="noData">沒有資料</string>
+	<string name="blank">請輸入地名</string>
+</resources>

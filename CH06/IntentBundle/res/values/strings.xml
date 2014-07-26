@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IntentBundle</string>
+    <string name="tvChinese">國文</string>
+    <string name="tvEnglish">英文</string>
+    <string name="tvMath">數學</string>
+    <string name="btnSubmit">確定</string>    
+    <string name="hint">請輸入成績</string>
+    <string name="resultTitle">計算結果</string>
+    <string name="btnBack">返回</string>
+    <string name="inputError">成績未輸入或輸入錯誤，請按返回按鈕再輸入一次！！</string>
+    <string name="totalScores">總分：</string>
+    <string name="average">平均：</string>
+    <string name="top">成績很好，可得獎學金10000元！</string>
+    <string name="high">成績不錯，可得獎學金5000元！</string>
+    <string name="general">成績普通，還要再努力！</string>
+</resources>

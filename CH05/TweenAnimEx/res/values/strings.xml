@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TweenAnimEx</string>
+    <string name="prompt_input">請輸入您的大名</string>
+    <string name="submit">振動</string>
+    <string name="anim_text">一二三四</string>
+    <string name="anim_text1">知己知彼</string>
+    <string name="anim_text2">百戰不殆</string>
+    <string name="anim_text3">-孫子兵法-</string>
+    <string name="prompt_select">請選擇捕間動畫方式</string>
+    
+    <string-array name="iters">
+    	<item>加速</item>
+    	<item>減速</item>
+    	<item>加速後減速</item>
+    	<item>以退為進</item>
+    	<item>衝過頭了</item>
+    	<item>以退為進+衝過頭了</item>
+    	<item>反彈</item>
+    </string-array>   
+    <string-array name="anims">
+    	<item>向上翻</item>
+    	<item>向左推</item>
+    	<item>逐漸消失</item>
+    	<item>抽象空間</item>
+    </string-array>         
+</resources>

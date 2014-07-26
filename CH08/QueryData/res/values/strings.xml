@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QueryData</string>
+    <string name="placePrompt">想去哪玩？</string>    
+    <string name="yang">陽明山</string>    
+	<string name="submit">查詢</string>
+</resources>

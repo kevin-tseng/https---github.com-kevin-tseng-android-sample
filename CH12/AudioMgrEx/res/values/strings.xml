@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AudioMgrEx</string>
+    <string name="curVol_maxVol">目前音量/最大音量</string>
+    <string name="ringtone">鈴聲</string>
+    <string name="music">音樂</string>
+    <string name="system">系統聲音</string>
+    <string name="raise">大聲</string>
+    <string name="lower">小聲</string>
+    <string name="ringerMode">鈴聲模式</string>
+    <string name="normal">正常</string>
+    <string name="silent">靜音</string>
+    <string name="vibrate">震動</string>
+</resources>

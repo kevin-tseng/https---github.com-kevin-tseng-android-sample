@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MP_Audio</string>
+    <string name="info">播放...</string>
+    <string name="audioSource">檔案來源-</string>
+    <string name="sdAudio">播放>>SD card Audio</string>
+    <string name="urlAudio">播放>>網路 Audio</string>
+    <string name="stop">停止</string>
+</resources>

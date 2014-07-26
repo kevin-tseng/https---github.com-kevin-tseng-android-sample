@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">InsertData</string>
+	<string name="row">(第幾筆/總筆數)</string>
+	<string name="id">旅遊地代號</string>
+	<string name="name">地名</string>
+	<string name="phoneNo">聯絡電話</string>
+	<string name="address">地址</string>
+	<string name="insert">新增</string>
+	<string name="insert_success">資料新增成功</string>
+	<string name="insert_fail">資料新增失敗</string>
+	<string name="clear">清除</string>
+	
+	<string name="blank">請輸入旅遊地代號或地名</string>
+	<string name="default_id">yushan</string>
+	<string name="default_name">玉山國家公園管理處</string>
+	<string name="default_phoneNo">049-2773121</string>
+	<string name="default_address">南投縣水里鄉中山路一段300號</string>	
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">InternalStorageEx</string>
+    <string name="hint">請輸入欲儲存的文字</string>    
+    <string name="save">儲存檔案</string>
+    <string name="append">附加後存檔</string>
+    <string name="open">開啟檔案</string>
+    <string name="fileSaved">已將輸入儲存</string>
+    <string name="fileAppended">已將輸入附加後存檔</string>
+</resources>

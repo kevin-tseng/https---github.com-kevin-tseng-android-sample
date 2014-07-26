@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SubmenuEx</string>
+	<string name="yangmingshan">陽明山國家公園</string>
+	<string name="guide">園區導覽</string>
+	<string name="traffic">交通位置</string>
+	<string name="yushan">玉山國家公園</string>
+	<string name="taroko">太魯閣國家公園</string>
+	<string name="myloc">我的位置</string>
+	<string name="exit">結束</string>
+	<string name="prompt">請按「Menu」按鈕</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">RouteEx</string>
+  <string name="destPrompt">請輸入目的地</string>
+	<string name="route">導航</string>
+	<string name="address">陽明山國家公園</string>
+	<string name="lastLocNotFound">無法取得最新位置</string>
+	<string name="addressIsEmpty">未輸入地址</string>
+	<string name="addressNotFound">找不到該地址</string>
+</resources>

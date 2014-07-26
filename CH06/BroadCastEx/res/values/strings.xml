@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BroadCastEx</string>    
+	<string name="brocastSend">傳送Broadcast</string>
+	<string name="brocastCancel">解除receiver</string>
+	<string name="brocastCancelled">receiver已被解除</string>
+	<string name="brocastRegister">註冊receiver</string>
+	<string name="brocastReceived">接收到Broadcast</string>
+</resources>

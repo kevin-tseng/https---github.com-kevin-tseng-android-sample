@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ResourceEx</string>
+    <string name="styled_text">
+    	<u>三國演義</u>，作者 <b>羅貫中</b>，號<i>湖海散人</i>
+    </string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<resources> 
+	<string name="app_name">TelephonyEx</string> 
+	<string name="str">正在檢查是否收到來訊或來電...</string>
+	<string name="sendAddr">發訊位址：</string>
+	<string name="time">時間：</string>
+	<string name="msgBody">簡訊內容：</string>
+	<string name="caller">來電號碼：</string>
+</resources> 

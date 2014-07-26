@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CameraEx</string>
+    <string name="save">存檔</string>
+    <string name="cancel">取消</string>
+    <string name="exit">結束</string>
+    <string name="SDCardNotFound">偵測不到記憶卡</string>
+    <string name="filePath">檔案儲存至-</string>
+    <string name="photoNotTaken">尚未拍照，無法存檔</string>
+</resources>

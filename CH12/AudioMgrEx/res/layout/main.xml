@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical"
+	android:layout_width="match_parent" 
+	android:layout_height="match_parent" >
+	<TextView android:id="@+id/tvInfo" 
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content" 
+		android:background="#ffffffcc"
+		android:padding="5px" 
+		android:textColor="#000000"
+		android:layout_alignParentTop="true" 
+		android:layout_alignParentLeft="true">
+	</TextView>
+	<RelativeLayout 
+		android:layout_width="match_parent" 
+		android:layout_height="wrap_content" 
+		android:background="#005555">
+		<RadioGroup android:id="@+id/rgVolume"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:layout_alignParentTop="true" 
+			android:orientation="horizontal">
+			<RadioButton android:id="@+id/rbRingtone"
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:text="@string/ringtone" />
+			<RadioButton android:id="@+id/rbMusic"
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:text="@string/music" />
+			<RadioButton android:id="@+id/rbSystem"
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:text="@string/system" />		    
+		</RadioGroup>   	
+		<Button android:id="@+id/btnRaise" 
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content" 
+			android:layout_below="@id/rgVolume" 
+			android:text="@string/raise" />
+		<Button android:id="@+id/btnLower" 
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content" 
+			android:layout_alignTop="@+id/btnRaise" 
+			android:layout_toRightOf="@+id/btnRaise"
+			android:text="@string/lower" />
+	</RelativeLayout>
+	<LinearLayout
+		android:orientation="vertical" 
+		android:layout_width="match_parent" 
+		android:layout_height="wrap_content" 
+		android:layout_marginTop="10px" >
+		<RadioGroup android:id="@+id/rgVibrate"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:gravity="center_horizontal"
+			android:orientation="horizontal"
+			android:background="#FFFFFF" >
+			<RadioButton android:id="@+id/rbNormal"
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:drawableRight="@android:drawable/ic_lock_silent_mode_off" />
+			<RadioButton android:id="@+id/rbSilent"
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:drawableRight="@android:drawable/ic_lock_silent_mode" />
+			<RadioButton android:id="@+id/rbVibrate"
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:drawableRight="@drawable/vibrate" />		    
+		</RadioGroup>  	
+	</LinearLayout>
+</LinearLayout>

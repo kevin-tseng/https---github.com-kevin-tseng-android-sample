@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent" 
+	android:stretchColumns="1,2" >	
+	<TableRow>
+		<TextView 
+			android:padding="5dp"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="@string/tvChinese" />
+		<EditText android:id="@+id/etChinese"
+			android:padding="5dp"
+			android:singleLine="true"			
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:numeric="integer"
+			android:hint="@string/hint"
+			android:textSize="18sp" />
+	</TableRow>
+	<TableRow>
+		<TextView
+			android:padding="5dp"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="@string/tvEnglish" />
+		<EditText android:id="@+id/etEnglish"
+			android:padding="5dp"
+			android:singleLine="true"			
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:numeric="integer"
+			android:hint="@string/hint"
+			android:textSize="18sp" />
+	</TableRow>
+	<TableRow>
+		<TextView
+			android:padding="5dp"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="@string/tvMath" />
+		<EditText android:id="@+id/etMath"
+			android:padding="5dp"
+			android:singleLine="true"			
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:numeric="integer"
+			android:hint="@string/hint"
+			android:textSize="18sp" />		
+		<Button
+			android:padding="5dp"
+			android:id="@+id/btnSubmit"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="@string/btnSubmit" />	
+	</TableRow>	
+</TableLayout>

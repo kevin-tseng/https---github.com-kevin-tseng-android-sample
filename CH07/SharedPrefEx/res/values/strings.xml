@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SharedPrefEx</string>
+	<string name="prompt">請設定自己偏好</string>
+	<string name="fileName">照片預設存檔名稱</string>
+	<string name="isAutoFocus">是否自動對焦</string>
+	<string name="yes">是</string>
+	<string name="no">否</string>
+	<string name="secAutoShoot">幾秒後自動拍攝</string>
+	<string name="prefSave">儲存偏好設定</string>
+	<string name="prefLoad">載入偏好設定</string>
+	<string name="defaultValue">回復預設值</string>
+	<string name="askForNumber">請輸入數字</string>
+	<string name="prefSaved">已儲存偏好設定</string>
+	<string name="prefLoaded">已載入偏好設定</string>
+	<string name="beenDefaultValue">已回復預設值</string>
+</resources>

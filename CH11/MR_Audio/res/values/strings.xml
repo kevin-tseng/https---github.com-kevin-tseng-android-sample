@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>    
+    <string name="app_name">MR_Audio</string>
+    <string name="info">錄音機</string>
+    <string name="audioSource">檔案來源-</string>
+    <string name="filePath">檔案儲存至-</string>
+    <string name="record">錄音</string>
+    <string name="stopRecord">停止錄音</string>
+    <string name="play">播放</string>
+    <string name="stopPlay">停止播放</string>
+    <string name="recording">錄音中...</string>
+    <string name="SDCardNotFound">偵測不到記憶卡</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NotificationEx</string>
+	<string name="btnNtf">產生訊息</string>
+	<string name="btnCancel">移除訊息</string>
+	<string name="tickerText">今天天氣不錯唷！</string>
+	<string name="contentTitle">氣象報告說：天氣晴朗，萬里無雲</string>
+	<string name="contentText">別忘了擦防曬！</string>
+</resources>

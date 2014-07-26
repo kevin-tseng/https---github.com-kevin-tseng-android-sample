@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ExternalStorageEx</string>
+    <string name="photoPath">res/drawable/photo.jpg</string>
+    <string name="msg">訊息欄位</string>
+    <string name="savePublic">儲存至公開照片區</string>
+    <string name="savePrivate">儲存至私有照片區</string>
+    <string name="saveFileTo">檔案已儲存至</string>
+    <string name="SDCardNotFound">偵測不到記憶卡</string>
+</resources>

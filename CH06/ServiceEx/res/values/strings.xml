@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ServiceEx</string><string name="hint">幾秒後播放音樂？</string>
+	<string name="btnSubmit">確定</string>
+	<string name="btnStop">停止</string>
+	<string name="playAfterSec">秒後播放音樂</string>
+	<string name="playMusic">即將播放ring.mp3</string>
+	<string name="speakerOn">別忘了開啟喇叭！</string>
+</resources>

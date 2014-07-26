@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:title="@string/yangmingshan" android:id="@+id/yangmingshan"></item>
+<item android:title="@string/yushan" android:id="@+id/yushan"></item>
+<item android:title="@string/taroko" android:id="@+id/taroko"></item>
+<item android:title="@string/myloc" android:id="@+id/myloc"></item>
+<item android:title="@string/exit" android:id="@+id/exit"></item>
+</menu>

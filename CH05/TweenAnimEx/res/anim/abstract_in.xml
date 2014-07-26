@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<alpha xmlns:android="http://schemas.android.com/apk/res/android" 
+	android:fromAlpha="0.0" 
+	android:toAlpha="1.0" 
+	android:duration="300" 
+	android:startOffset="1200" /> 
+	<!-- 如果「android:startOffset」不設定成1200毫秒，此動畫的文字會太早出現而與上次動畫準備離開的文字重疊 -->

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LightEx</string>
+    <string name="maxRange">能感應的最大照度(lux)：</string>
+    <string name="sleep">適合睡覺</string>
+    <string name="walk">適合夜間散步</string>
+    <string name="watchTV">適合看電視</string>
+    <string name="dailyLife">適合一般生活起居</string>
+    <string name="read">適合閱讀</string>
+    <string name="operation">適合手術房</string>
+    <string name="anyThing">可以做任何事(除了壞事)</string>
+</resources>
