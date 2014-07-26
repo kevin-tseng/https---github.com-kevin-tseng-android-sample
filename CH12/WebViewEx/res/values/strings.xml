@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WebViewEx</string>
+    <string name="googleUrl">http://www.google.com</string>
+    <string name="submit">確定</string>
+</resources>

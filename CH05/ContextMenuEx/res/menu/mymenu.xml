@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+	<group android:checkableBehavior="single">
+		<item android:id="@+id/yangmingshan" android:title="@string/yangmingshan" />
+		<item android:id="@+id/yushan" android:title="@string/yushan" />
+		<item android:id="@+id/taroko" android:title="@string/taroko" />
+	</group>
+		<item android:id="@+id/myloc" android:title="@string/myloc" />
+		<item android:id="@+id/exit" android:title="@string/exit" />
+</menu>
